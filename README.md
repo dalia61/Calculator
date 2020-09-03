@@ -1,2 +1,2 @@
 # Calculator
-simple native calculator using C++
+simple native console calculator using C++
